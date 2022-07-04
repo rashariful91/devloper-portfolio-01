@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: poppins,sans-serif;
+    padding: 0 5%;
+}
+h1{
+    font-size: 50px;
+}
+.devloper-title{
+    color: tomato;
+}
+.hero{
+    background-image: url(./img/top-banner.png);
+    display: flex;
+}
+div{
+    display: ;
+}
