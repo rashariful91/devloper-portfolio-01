@@ -10,6 +10,7 @@ a{
 }
 p{
     text-align: justify;
+    color: dimgray;
 }
 .btn{
     color: white;
@@ -56,14 +57,15 @@ img{
 }
 .container{
     display: flex;
-    padding: 0 5%;
+    /* padding: 0 5%; */
 }
 .exp{
     width: 40%;
     box-shadow: 10px 10px 40px gray;
     border-radius: 10px;
+    margin-left:5%;
+    margin-right: 5%;
     padding: 20px;
-    margin: 0 5%;
     margin-bottom: 150px;
 }
 .exp-title{
@@ -74,8 +76,13 @@ img{
     font-size: 28px;
 }
 .left{
-    border-left: 5px solid tomato;
+    border-left: 10px solid tomato;
 }
 .right{
-    border-left: 5px solid blue;
+    border-left: 10px solid blue;
+}
+
+/* =================== Footer ================= */
+footer p{
+    text-align: center;
 }
